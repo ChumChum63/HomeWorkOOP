@@ -52,7 +52,7 @@ cool_reviewer.rate_hw(best_student, 'Python', 10)
 cool_reviewer.rate_hw(best_student, 'Python', 10)
 cool_reviewer.rate_hw(best_student, 'Python', 10)
 
-cool_lecturer = Lecturer('Tom', 'Hanks')
+cool_lecturer = Lecturer('Homer', 'Simpson')
 cool_lecturer.courses_attached += ['Python']
 
 best_student.rate_lecture(cool_lecturer, 'Python', 7)
